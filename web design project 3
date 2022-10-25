@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="week4 css/style.css">
+ </head>
+<body>
+    <h1>Web design blog</h1>
+
+<h2>By Yiyang Song</h2>
+    <h3>INTRO</h3>
+    <p>Kia ora I am a second year design student.This is my blog for Web deisgn I. Email me if you have any question.</p>
+    <p><a href="mailto:eltonsong2@gmail.com">Send email</a></p>
+    <h3>WEEK ONE</h3>
+    <P>This is the first lecture of the course. We get to know the overview of the course contend. 
+    We intruduced ourselves and designed name tags for others. Here is the name tag I design for Tia.</P>
+    <img src="Name tag.png">
+    <h3>WEEK TWO</h3>
+    <p>In this week we learnt what is user persona and we have work in group to create a user persona for Spongebob.
+    </p>
+    <img src="img-spongebob2.png">
+    <img src="img-spongebob1.png">
+    <h3>WEEK THREE</h3>
+    <p> In today’s lecture, we have been introduced to the concept of Venn diagram, which is a diagram style that uses overlapping circles or other shapes to illustrate the logical relationships between two or more sets of items. Allows users to visualize data in clear, powerful ways. In this case, it helps me to define my website goals (shared goals). 
+
+        Then in group of three, we have created a Venn diagram that has Spongebob' s goals, and the designer goals (our goals), and link them to goals that you share with your user group. 
+        
+        Subsequently, we created an ordered list of 3-5 linked websites that have an aesthetically pleasing design. And an unordered list of 3-5 fictional characters that we like. 
+        
+          </p>
+        <img src="Venn diagram.png">
+        <h3>WEEK FOUR - Planning user journey</h3>
+        <p>Today we learnt about what user flow is and how to make a user flow. 
+
+            Then we created a user flow diagram on how Spongebob would navigate through a new website that focused on getting recommended the correct meals and workouts based on his gym goals. 
+            
+            We created a customer journey map that analysis what users (Spongebob) could be thinking when they navigate through our website based on the user flow diagram. 
+            
+            In the coding activity today, we learnt how to create a paper box model that consists of margins, borders, padding, and the content inside by using HTML/CSS.  </p>
+            <h3>WEEK FIVE -  CSS Grids part 1 </h3>
+            <p>Today we talked about hand in details and marking rubrics for assignment one. We did an activity about how to create a layout using flexbox. 
+
+                Here are the user persona, Empathy map, Venn diagram,  User flow diagram and Customer journey map I have created for my user Forrest Gump. </p>
+               <img src="User persona - Forrest Gump.png">
+               <img src="Empathy map - Forrest Gump.png">
+               <img src="user flow.png">
+               <img src="Website Venn Diagram.png">
+               <img src="user journey map.png">
+
+                <h3>WEEK SIX - Assignment 1 Progression </h3>
+                <p>In this week’s lecture we did the presentation for assignment one and introduced the tasks we need to in the next assignment. 
+
+                    Assignment one reflection: To sum up, through the user persona, user empathy map, Vinn diagram, user flow and customer journey map. I have eventually built the foundations of a website that can help people with autism to achieve their goals and get social support. The website will provide online courses and tutorials to self-educate on the topics they are interested in. They can also use this website to find potential employers or have their resumes reviewed by professionals. </p>
+
+            <h3>WEEK SEVEN - Colour Theory + UX Laws</h3>
+            <p>First lecture after mid-trimester break, we learnt why it is important to create a good visual hierarchy by having the good colour contract. To continue, we learnt how to create good colour contract by putting warm and cold colours together or increasing the saturation and lightness of coulours. 
+
+                After we did some practice on how to create layout by using CSS grids and get individual helps for the assignment two. Here are my Lo-fi hand-drawnm phone wireframes and website wireframes I have created during break. </p>
+                <img src="lo-fi wireframe phone.png">
+                <img src="lo-fi wireframe website.png">
+            <h3>WEEK EIGHT - Typography + CSS Grids part 2 (responsive design) </h3>
+            <p>In this week’s lecture we talked about why typography is so important for website design and how to choose the right website typeface by considering the line spacing, colours, visual hierarchy, font type and size. 
+
+                Then we did a draft presentation for project 2 and got feedback from tutors.  
+                
+                Here is the feedback I got today:
+                <ul>
+                    <li>Think about the color palates. The pink color with black color font does not match and does not have a good contract. </li>
+                    <li>About the personality test. Make sure all the answers are easy toread and click on. The layout needs to be adjusted and refined. Take off the “skip all the questions” option. </li>
+                    <li>Add a personalization setting function for users to create their preferences for the most comfortable way to interact with the website</li>
+                  </ul> </p>
+                <img src="hi-fi website phone.png">
+                <img src="hi-fi wireframe website.png">
+                <h3>WEEK NINE - Assignment 2-1 Progress + Editor X Basics </h3>
+                <p>This week we did presentations for assignment 2-1. Here is the reflection I had for this assignment: If I could do this assignment again, I would join communities like IHC Volunteer to work with my users and get to know them in real life instead of through articles or other people's words. I would also consider the design system at the beginning so I can slowly build up the system as I develop my website instead of leaving them at the lastminute. But overall, I am happy with my outcomes as this is my first time designing a website. 
+               
+                    After the presentation, we had an introduction about what we need to do for assignment 2-2. </p>
+                    <img src="colour contract.png">
+                    <img src="style guide.png"alt="Cinque Terre" width="1000" height="300">
+                <h3>WEEK ELEVEN - Thinking like a coder + assignment 2-2 development </h3>
+                <p>In today's lecture. We have learnt the fundamentals of Editor and get feedbacks and help for our assignment 2-2.   
+
+                    We have seen some previous blog examples which help me to understand what it should look like. </p>
+                <h3>WEEK TWELVE - Reflection over the trimester</h3>
+                <p>Today is the last lecture of this course. We each present the website we created for assignment 2-2 and reflection over the trimester. 
+
+                    Here is some feedback I got for assignment two today: </p>
+                    <ul>
+                        <li>Delete the testing page from the menu and keep it as a link on the profile page. </li>
+                        <li>Adjust the font size on most of my website pages and make sure it is consistent. </li>
+                        <li>Adjust the Facebook and Instagram icon sizes on the footer page. Adjust the logo size and position.</li>
+                      </ul>
+                    
+
+ 
+ 
+ 
+ 
+                <p></p>
+</body>
+</html>
